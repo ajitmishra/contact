@@ -1,32 +1,36 @@
-#dropdown-menu-0 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-0 .navbar-brand a {
-  font-size: 25px;
-}
-#dropdown-menu-0 .nav .link,
-#dropdown-menu-0 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-0 .navbar,
-#dropdown-menu-0 .dropdown-menu {
-  background: #27aae0;
-}
-#dropdown-menu-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-0 .dropdown-menu a:hover,
-#dropdown-menu-0 .dropdown-menu a:focus {
-  background: #1e9fd4;
-}
-#dropdown-menu-0 .navbar-toggler {
-  color: #ffffff;
-}
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 #contacts1-6 STRONG {
-  color: #ffffff;
+  color: #2969b0;
+  font-size: 21px;
 }
 #contacts1-6 P {
-  color: #ffffff;
+  color: #475577;
 }
 #footer1-7 P {
+  color: #553982;
+}
+#dropdown-menu-9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-9 .navbar-brand a {
+  font-size: 32px;
+}
+#dropdown-menu-9 .nav .link,
+#dropdown-menu-9 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-9 .navbar,
+#dropdown-menu-9 .dropdown-menu {
+  background: #27aae0;
+}
+#dropdown-menu-9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-9 .dropdown-menu a:hover,
+#dropdown-menu-9 .dropdown-menu a:focus {
+  background: #1e9fd4;
+}
+#dropdown-menu-9 .navbar-toggler {
   color: #ffffff;
 }
