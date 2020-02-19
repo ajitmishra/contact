@@ -709,17 +709,29 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rGjBBdBzpa {
-  background-image: url("../../../assets/images/background4.jpg");
+.cid-rQXppAVMUL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rQXppAVMUL P {
+  color: #767676;
+}
+.cid-rQXppAVMUL H1 {
+  color: #0f7699;
+}
+.cid-rQXppAVMUL .mbr-text,
+.cid-rQXppAVMUL .mbr-section-btn {
+  color: #0f7699;
 }
 .cid-rrQkyUtmmk .navbar {
-  background: #55b4d4;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-rrQkyUtmmk .navbar-dropdown.bg-color.transparent.opened {
-  background: #55b4d4;
+  background: #ffffff;
 }
 .cid-rrQkyUtmmk a {
   font-style: normal;
@@ -810,7 +822,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-rrQkyUtmmk .dropdown .dropdown-menu {
-  background: #55b4d4;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -947,6 +959,10 @@ section.lazy-placeholder:after {
 .cid-rrQkyUtmmk .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rrQkyUtmmk .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rrQkyUtmmk .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rrQkyUtmmk .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rrQkyUtmmk .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -957,7 +973,7 @@ section.lazy-placeholder:after {
 }
 @media (min-width: 992px) {
   .cid-rrQkyUtmmk .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 6.4rem);
   }
 }
 .cid-rrQkyUtmmk .collapsed button.navbar-toggler {
@@ -1048,6 +1064,10 @@ section.lazy-placeholder:after {
   .cid-rrQkyUtmmk .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-rrQkyUtmmk .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rrQkyUtmmk .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-rrQkyUtmmk .navbar-collapse.collapsing .navbar-buttons,
   .cid-rrQkyUtmmk .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1123,6 +1143,7 @@ section.lazy-placeholder:after {
   color: #767676;
   margin: 0;
   padding-top: 0.5rem;
+  text-align: center;
 }
 .cid-rrQlE9Ym13 .iconfont-wrapper {
   display: flex;
