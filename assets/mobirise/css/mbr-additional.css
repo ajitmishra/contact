@@ -781,6 +781,18 @@ section.lazy-placeholder:after {
 .cid-rrQlN74d0g textarea.form-control {
   min-height: 188px;
 }
+.cid-rQYaBnDuR6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rQYaBnDuR6 .mbr-section-subtitle {
+  color: #232323;
+  text-align: center;
+}
+.cid-rQYaBnDuR6 .btn {
+  margin: 0 0 .5rem 0;
+}
 .cid-rrQkyUtmmk .navbar {
   background: #ffffff;
   transition: none;
@@ -1187,15 +1199,6 @@ section.lazy-placeholder:after {
 .cid-rrQkyUtmmk .nav-link:hover,
 .cid-rrQkyUtmmk .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-rQY0TAHkZr {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rQY0TAHkZr .mbr-text,
-.cid-rQY0TAHkZr blockquote {
-  color: #767676;
 }
 .cid-rrQlXT0vcC {
   padding-top: 30px;
